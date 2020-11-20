@@ -1,0 +1,18 @@
+.board-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #F39C12;
+    padding: 30px;
+    width: 400px;
+}
+.block {
+    background-color: #FFFFFF;
+    border: 2px solid #000000;
+    font-size: 30px;
+    text-align: center;
+    height: 118px;
+    width: 131px;
+    line-height: 122px;
+    font-size: 60px;
+    cursor: pointer;
+}
